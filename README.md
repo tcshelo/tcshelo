@@ -5,11 +5,11 @@ Para isso, venho fazendo também cursos extras para ampliar meu repertório 💞
 
 Habilidades:
 
-🟧‍ **C** - nível: básico
-🟧‍ **C#** - nível: básico
-🟧‍ **JavaScript** - nível: básico
-🟧‍ **HTML** - nível: básico
-🟧‍ **CSS** - nível: básico
+🟧‍ **C** - básico
+🟧‍ **C#** - básico
+🟧‍ **JavaScript** - básico
+🟧‍ **HTML** - básico
+🟧‍ **CSS** - básico
 
 
 Se quiser entrar em contato:
