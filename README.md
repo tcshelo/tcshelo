@@ -3,6 +3,15 @@ Olá! Meu nome é Heloisa, tenho 22 anos e estou no 2º Semestre de Análise e D
 Estou em busca de oportunidades de estágio para alavancar minha carreira, adquirindo novos conhecimentos sobre a área.
 Para isso, venho fazendo também cursos extras para ampliar meu repertório 💞️
 
+Habilidades:
+
+🟧‍ **C** - nível: básico
+🟧‍ **C#** - nível: básico
+🟧‍ **JavaScript** - nível: básico
+🟧‍ **HTML** - nível: básico
+🟧‍ **CSS** - nível: básico
+
+
 Se quiser entrar em contato:
 📫 tcs.heloisa@gmail.com
 
