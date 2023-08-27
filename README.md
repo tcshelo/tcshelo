@@ -1,14 +1,18 @@
-Olá! Meu nome é Heloisa, tenho 23 anos e estou no 3º Semestre de Análise e Desenvolvimento de sistemas (EAD).
+Olá! Meu nome é Heloisa, tenho 24 anos e sou formada em Análise em Desenvolvimento de Sistemas!
 
 Habilidades:
 
-🟧‍ **JavaScript** - básico
-🟧‍ **HTML** - básico
-🟧‍ **CSS** - básico
-🟧‍ **Java** - básico
-🟧‍ **React** - básico
-🟧‍ **SQL** - médio
-🟧‍ **Git** - médio
+🟧‍ **JavaScript**
+
+🟧‍ **React JS**
+
+🟧‍ **Java**
+
+🟧‍ **SQL**
+
+🟧‍ **PHP**
+
+🟧‍ **Git**
 
 
 Se quiser entrar em contato:
